@@ -1,0 +1,10 @@
+*.o
+*~
+*.swp
+*.out
+*.a
+*.cor
+*.gcno
+/.vscode
+requirement
+projTester
